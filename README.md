@@ -1,1 +1,6 @@
-<p dir="auto"><a href="https://velog.io/@dgh0001"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Android&logoColor=white"/></a><a href="mailto:dgh000190@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Android&logoColor=white"/></a></p>
+<h3>Hello 😇</h3>
+<p>I'm student developer!</p>
+
+<h3>Tech Stack</h3>
+<img src="https://img.shields.io/badge/-Django-092E20?logo=Django&amp;logoColor=white&amp;labelColor=092E20" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-Express-000000?logo=Express&amp;logoColor=white&amp;labelColor=000000" style="max-width: 100%;">
