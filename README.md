@@ -10,6 +10,6 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dockerel&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dockerel&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dockerel&layout=compact&theme=gruvbox)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dgh0001)](https://solved.ac/dgh0001)
