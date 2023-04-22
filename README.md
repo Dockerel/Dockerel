@@ -10,3 +10,5 @@
 <br/>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dockerel&show_icons=true&theme=vue)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dgh0001)](https://solved.ac/dgh0001)
