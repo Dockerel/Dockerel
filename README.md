@@ -7,6 +7,9 @@
 
 <h3>🫧 Learning now...</h3>
 <p dir="auto"><img src="https://img.shields.io/badge/-JAVA-orange?logo=CoffeeScript&amp;logoColor=white&amp;labelColor=orange" style="max-width: 100%;"><img src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&amp;logoColor=white&amp;labelColor=6DB33F" style="max-width: 100%;"><img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&amp;logoColor=white&amp;labelColor=4479A1" style="max-width: 100%;"><p>
+
+<h3>🫧 Learning now...</h3>
+<p dir="auto"><a href="mailto:dgh000190@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?logo=Gmail&amp;logoColor=white&amp;labelColor=EA4335" style="max-width: 100%;"></a><a href="https://velog.io/@dgh0001"><img src="https://img.shields.io/badge/-Velog-40b68d?logo=Velog&amp;logoColor=white&amp;labelColor=40b68d" style="max-width: 100%;"></a><p>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dockerel&show_icons=true&theme=vue)
 
