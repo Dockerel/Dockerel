@@ -14,4 +14,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dockerel&show_icons=true&theme=vue)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgh000190)](https://solved.ac/dgh0001)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgh0001)](https://solved.ac/dgh0001)
