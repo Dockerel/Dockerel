@@ -11,7 +11,7 @@
 <p dir="auto">
 <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&amp;logoColor=white&amp;labelColor=47A248" style="max-width: 100%;"><img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&amp;logoColor=white&amp;labelColor=4479A1" style="max-width: 100%;"></p>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dockerel&show_icons=true&theme=vue)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dockerel&show_icons=true&theme=vue)-->
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgh0001)](https://solved.ac/dgh0001)
+<!--[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgh0001)](https://solved.ac/dgh0001)-->
