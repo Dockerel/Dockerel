@@ -9,7 +9,7 @@
 
 <h4>DB</h4>
 <p dir="auto">
-<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&amp;logoColor=white&amp;labelColor=47A248" style="max-width: 100%;"><img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&amp;logoColor=white&amp;labelColor=4479A1" style="max-width: 100%;"></p>
+<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&amp;logoColor=white&amp;labelColor=47A248" style="max-width: 100%;"><img src="https://img.shields.io/badge/-SQLite-4479A1?logo=SQLite&amp;logoColor=white&amp;labelColor=4479A1" style="max-width: 100%;"></p>
   
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dockerel&show_icons=true&theme=vue)-->
 
