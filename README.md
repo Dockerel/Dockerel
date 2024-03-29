@@ -13,5 +13,7 @@
   
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dockerel&show_icons=true&theme=vue)-->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dockerel&layout=compact)
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgh0001)](https://solved.ac/dgh0001)
