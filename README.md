@@ -13,8 +13,13 @@
 
 <h4>PS</h4>
 
+<!--
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgh0001)](https://solved.ac/dgh0001)
+-->
+
+![dgh0001's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dgh0001)
+
 <br />
 <br />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
