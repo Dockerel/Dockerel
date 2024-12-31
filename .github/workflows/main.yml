@@ -22,7 +22,7 @@ jobs:
         run: |
           git config user.name Dockerel
           git config user.email dgh0001@naver.com
-          git remote set-url origin https://github.com/Jade-Good/Jade_Good.git
+          git remote set-url origin https://github.com/Dockerel/Dockerel.git
           git add -A .
           git commit -m "chore: readme updated"
           git push https://$GITHUB_TOKEN@github.com/Dockerel/Dockerel.git
