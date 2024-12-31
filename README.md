@@ -25,8 +25,6 @@
 <img src="https://img.shields.io/badge/-SQLite-4479A1?logo=SQLite&amp;logoColor=white&amp;labelColor=4479A1" style="max-width: 100%;">
 </p>
 
-#438CB2
-
 <h4>PS</h4>
 
 <!--
