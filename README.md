@@ -34,7 +34,6 @@
 
 ![dgh0001's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dgh0001)
 
-<br />
 <h4>GITHUB</h4>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
