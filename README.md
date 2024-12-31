@@ -25,7 +25,9 @@
 <img src="https://img.shields.io/badge/-SQLite-4479A1?logo=SQLite&amp;logoColor=white&amp;labelColor=4479A1" style="max-width: 100%;">
 </p>
 
-<h4>PS</h4>
+---
+
+<h3>PS</h3>
 
 <!--
 [![Solved.ac
@@ -34,7 +36,9 @@
 
 ![dgh0001's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dgh0001)
 
-<h4>GITHUB</h4>
+---
+
+<h3>GITHUB</h3>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
