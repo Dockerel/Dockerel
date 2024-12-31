@@ -21,4 +21,5 @@ jobs:
           git config user.email dgh0001@naver.com
           git add -A .
           git commit -m "generated"
-          git push
+          git remote set-url origin https://$GITHUB_TOKEN@github.com/Dockerel/Dockerel.git
+          git push origin main
