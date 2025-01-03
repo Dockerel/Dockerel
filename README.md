@@ -1,3 +1,9 @@
+<h3>Experience</h3>
+
+| 날짜 | 이름 | 비고 |
+|----|----|----|
+|2024.04~2024.11|카카오테크캠퍼스 2기 Backend|
+
 <h3>Tech Stack</h3>
 <h4>Back-End</h4>
 <p dir="auto">
