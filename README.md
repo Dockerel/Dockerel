@@ -5,12 +5,12 @@
   * 카카오테크캠퍼스 프로젝트 [**'딸깍'**](https://github.com/Dockerel/Team5_BE) 서비스 개발 (2024.09 ~ 2024.11)
 <br>
 
-* **Google Developers Group on Campus** KNU 4기 BE (2025.02 ~ ing)
-  * GDGoc 솔루션 챌린지 프로젝트 [**'토닥'**](https://github.com/Dockerel/4th-SC-TEAM1-BE) 서비스 개발 (2025.02 ~ ing)
+* **Google Developers Group on Campus** KNU 4기 BE (2025.02 ~ 2025.05)
+  * GDGoc 솔루션 챌린지 프로젝트 [**'토닥'**](https://github.com/Dockerel/4th-SC-TEAM1-BE) 서비스 개발 (2025.02 ~ 2025.05)
 <br>
 
-* **경북대학교** 컴퓨터학부 20학번 (2020.03 ~ ing)
-  * 경북대학교 산학협력프로젝트1 with **데이터스트림즈**. [**'빅픽쳐'**](https://github.com/Dockerel/DataStreams-BE) 서비스 개발 (2025.03 ~ ing)
+* **경북대학교** 컴퓨터학부 20학번 (2020.03 ~ 2025.06)
+  * 경북대학교 산학협력프로젝트1 with **데이터스트림즈**. [**'빅픽쳐'**](https://github.com/Dockerel/DataStreams-BE) 서비스 개발 (2025.03 ~ 2025.06)
 
 ---
 <h3>Tech Stack</h3>
