@@ -1,4 +1,4 @@
-<div align="center"><h1>✊ Experience</h1></div>
+<div align="center"><h1>🏃 Experience</h1></div>
 <table align="center">
   <thead>
     <tr>
