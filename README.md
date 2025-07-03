@@ -105,6 +105,7 @@
 <h2>DB</h2>
 <p dir="auto">
 <img src="https://img.shields.io/badge/-MySql-438CB2?logo=MySql&amp;logoColor=white&amp;labelColor=438CB2" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-Redis-FF4438?logo=Redis&amp;logoColor=white&amp;labelColor=FF4438" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&amp;logoColor=white&amp;labelColor=47A248" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/-SQLite-4479A1?logo=SQLite&amp;logoColor=white&amp;labelColor=4479A1" style="max-width: 100%;">
 </p>
