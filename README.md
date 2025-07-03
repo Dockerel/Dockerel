@@ -14,7 +14,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td><strong>2025.02 ~ 2025.05</strong></td>
+      <td><strong>2025.02 ~ 2025.07</strong></td>
       <td>Google Developers Group on Campus KNU 4기 BE</td>
       <td>-</td>
     </tr>
