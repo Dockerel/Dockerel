@@ -74,6 +74,13 @@
 
 ---
 
+<div align="center"><h1>✨ Opensource Contribution</h1></div>
+
+### spring-projects/spring-boot
+  - [Merged] Use ThreadLocal.remove() instead of set(null) - [PR](https://github.com/spring-projects/spring-boot/pull/46256)
+
+---
+
 <div align="center"><h1>🛠️ Tech Stack</h1></div>
 <h2>Back-End</h2>
 <p dir="auto">
