@@ -79,6 +79,10 @@
 ### spring-projects/spring-boot
   - [Merged] Use ThreadLocal.remove() instead of set(null) - [PR](https://github.com/spring-projects/spring-boot/pull/46256)
 
+### spring-projects/spring-data-jpa
+  - [Merged] Cache query strings in SimpleJpaRepository to improve performance - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3920)
+  - [Merged] Replace regex with startsWith / endsWith check for LIKE pattern detection - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3932)
+
 ---
 
 <div align="center"><h1>🛠️ Tech Stack</h1></div>
