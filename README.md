@@ -1,3 +1,8 @@
+<br/>
+<div style="margin:0; padding:0;">
+  <img src="https://raw.githubusercontent.com/Dockerel/Dockerel/main/readme.svg" style="display:block; margin:0; padding:0;" />
+</div>
+
 <div align="center"><h1>🏃 Experience</h1></div>
 <table align="center">
   <thead>
