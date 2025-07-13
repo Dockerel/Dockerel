@@ -1,0 +1,293 @@
+    <svg
+      width="480"
+      height="200"
+      viewBox="0 0 480 200"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <style>
+        rect {
+          fill: #e9e9eb;
+        }
+        a {
+          fill: #0079ff;
+        }
+        text {
+          fill: #242424;
+          font-size: 18px;
+          font-family: "-apple-system", "BlinkMacSystemFont", "Segoe UI",
+            "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+            "Helvetica Neue", "sans-serif";
+        }
+        .typing-1 {
+          opacity: 0;
+          animation: fade-in-out 0.8s;
+        }
+
+        .msg-1 {
+          animation: wait 1s, msg-1 0.2s 1s;
+        }
+
+        .typing-2 {
+          opacity: 0;
+          animation: wait 1.5s, fade-in-out 0.8s 1.5s;
+        }
+
+        .msg-2 {
+          animation: wait 2.5s, msg-2 0.2s 2.5s;
+        }
+
+        .typing-3 {
+          opacity: 0;
+          animation: wait 3s, fade-in-out 0.8s 3s;
+        }
+
+        .msg-3 {
+          animation: wait 4s, msg-3 0.2s 4s;
+        }
+
+        .typing-4 {
+          opacity: 0;
+          animation: wait 4.5s, fade-in-out 0.8s 4.5s;
+        }
+
+        .msg-4 {
+          animation: wait 5.5s, msg-4 0.2s 5.5s;
+        }
+
+        .typing-5 {
+          opacity: 0;
+          animation: wait 6s, fade-in-out 0.8s 6s;
+        }
+
+        .msg-5 {
+          animation: wait 7s, msg-5 0.2s 7s;
+        }
+
+        .typing-6 {
+          opacity: 0;
+          animation: wait 7.5s, fade-in-out 0.8s 7.5s;
+        }
+
+        .msg-6 {
+          animation: wait 8.5s, msg-6 0.2s 8.5s;
+        }
+
+        @keyframes wait {
+          0%,
+          100% {
+            opacity: 0;
+          }
+        }
+
+        @keyframes fade-in-out {
+          0%,
+          100% {
+            opacity: 0;
+          }
+          25%,
+          90% {
+            opacity: 1;
+          }
+        }
+
+        @keyframes msg-1 {
+          0% {
+            opacity: 0;
+            transform: translate(10px, 5px);
+          }
+          100% {
+            opacity: 1;
+            transform: translate(10px, 0);
+          }
+        }
+
+        @keyframes msg-2 {
+          0% {
+            opacity: 0;
+            transform: translate(10px, 53px);
+          }
+          100% {
+            opacity: 1;
+            transform: translate(10px, 48px);
+          }
+        }
+
+        @keyframes msg-3 {
+          0% {
+            opacity: 0;
+            transform: translate(10px, 111px);
+          }
+          100% {
+            opacity: 1;
+            transform: translate(10px, 96px);
+          }
+        }
+
+        @keyframes msg-4 {
+          0% {
+            opacity: 0;
+            transform: translate(10px, 149px);
+          }
+          100% {
+            opacity: 1;
+            transform: translate(10px, 144px);
+          }
+        }
+
+        @keyframes msg-5 {
+          0% {
+            opacity: 0;
+            transform: translate(10px, 197px);
+          }
+          100% {
+            opacity: 1;
+            transform: translate(10px, 192px);
+          }
+        }
+
+        @keyframes msg-6 {
+          0% {
+            opacity: 0;
+            transform: translate(10px, 269px);
+          }
+          100% {
+            opacity: 1;
+            transform: translate(10px, 264px);
+          }
+        }
+        @media (prefers-color-scheme: dark) {
+          rect {
+            fill: #3b3b3d;
+          }
+          text {
+            fill: #dcdcdc;
+          }
+          a {
+            fill: #0c82f9;
+          }
+        }
+      </style>
+
+      <!-- typing 1 -->
+      <g transform="translate(10, 0)" class="typing-1">
+        <rect x="8.27246" width="69.7276" height="42" rx="20.9774" />
+        <circle cx="13.591" cy="33.091" r="7.68185" />
+        <circle cx="3.54547" cy="41.9547" r="3.54547" />
+
+        <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+          <animate
+            attributeName="opacity"
+            values="0.5;1;0.5"
+            dur="1s"
+            repeatCount="indefinite"
+          />
+        </circle>
+        <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+          <animate
+            attributeName="opacity"
+            values="0.5;1;0.5"
+            dur="1s"
+            begin="0.2s"
+            repeatCount="indefinite"
+          />
+        </circle>
+        <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+          <animate
+            attributeName="opacity"
+            values="0.5;1;0.5"
+            dur="1s"
+            begin="0.4s"
+            repeatCount="indefinite"
+          />
+        </circle>
+      </g>
+
+      <!-- Hi -->
+      <g transform="translate(10, 0)" class="msg-1">
+        <rect width="344" height="42" rx="18.0355" />
+        <text x="15" y="27">안녕하세요! 백엔드 개발자 도기헌입니다. 👋</text>
+      </g>
+
+      <!-- typing 2 -->
+      <g transform="translate(10, 48)" class="typing-2">
+        <rect x="8.27246" width="69.7276" height="42" rx="20.9774" />
+        <circle cx="13.591" cy="33.091" r="7.68185" />
+        <circle cx="3.54547" cy="41.9547" r="3.54547" />
+
+        <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+          <animate
+            attributeName="opacity"
+            values="0.5;1;0.5"
+            dur="1s"
+            repeatCount="indefinite"
+          />
+        </circle>
+        <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+          <animate
+            attributeName="opacity"
+            values="0.5;1;0.5"
+            dur="1s"
+            begin="0.2s"
+            repeatCount="indefinite"
+          />
+        </circle>
+        <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+          <animate
+            attributeName="opacity"
+            values="0.5;1;0.5"
+            dur="1s"
+            begin="0.4s"
+            repeatCount="indefinite"
+          />
+        </circle>
+      </g>
+
+      <!-- From Columbus... -->
+      <g transform="translate(10, 48)" class="msg-2">
+        <rect width="310" height="42" rx="18.0355" />
+        <text x="15" y="27">백엔드 최적화에 진심인 개발자예요. 🔥</text>
+      </g>
+
+      <!-- typing 3 -->
+      <g transform="translate(10, 96)" class="typing-3">
+        <rect x="8.27246" width="69.7276" height="42" rx="20.9774" />
+        <circle cx="13.591" cy="33.091" r="7.68185" />
+        <circle cx="3.54547" cy="41.9547" r="3.54547" />
+
+        <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+          <animate
+            attributeName="opacity"
+            values="0.5;1;0.5"
+            dur="1s"
+            repeatCount="indefinite"
+          />
+        </circle>
+        <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+          <animate
+            attributeName="opacity"
+            values="0.5;1;0.5"
+            dur="1s"
+            begin="0.2s"
+            repeatCount="indefinite"
+          />
+        </circle>
+        <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+          <animate
+            attributeName="opacity"
+            values="0.5;1;0.5"
+            dur="1s"
+            begin="0.4s"
+            repeatCount="indefinite"
+          />
+        </circle>
+      </g>
+      oo
+
+      <!-- From Columbus... -->
+      <g transform="translate(10, 96)" class="msg-3">
+        <rect width="428" height="42" rx="18.0355" />
+        <text x="15" y="27">방문해주셔서 감사합니다. 오늘도 좋은 하루 보내세요! 🌟</text>
+      </g>
+
+    </svg>
