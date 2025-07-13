@@ -1,6 +1,5 @@
 <br/>
 <br/>
-<br/>
 <div style="margin:0; padding:0;">
   <img src="https://raw.githubusercontent.com/Dockerel/Dockerel/main/readme.svg" style="display:block; margin:0; padding:0;" />
 </div>
