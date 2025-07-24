@@ -81,7 +81,7 @@
 <div align="center"><h1>✨ Opensource Contribution</h1></div>
 
 ### spring-projects/spring-boot
-  - [Merged] Use ThreadLocal.remove() instead of set(null) - [PR](https://github.com/spring-projects/spring-boot/pull/46256)
+  - [[Released - 3.4.8]](https://github.com/spring-projects/spring-boot/releases/tag/v3.4.8) Use ThreadLocal.remove() instead of set(null) - [PR](https://github.com/spring-projects/spring-boot/pull/46256)
 
 ### spring-projects/spring-data-jpa
   - [[Released - 3.5.2]](https://github.com/spring-projects/spring-data-jpa/releases/tag/3.5.2) Cache query strings in SimpleJpaRepository to improve performance - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3920)
