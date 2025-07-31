@@ -1,5 +1,3 @@
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FDockerel?color=green&label=hits&size=small)](https://myhits.vercel.app)
-
 <br/>
 <div style="margin:0; padding:0;">
   <img src="https://raw.githubusercontent.com/Dockerel/Dockerel/main/readme.svg" style="display:block; margin:0; padding:0;" />
