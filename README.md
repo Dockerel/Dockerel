@@ -2,6 +2,18 @@
 <div style="margin:0; padding:0;">
   <img src="https://raw.githubusercontent.com/Dockerel/Dockerel/main/readme.svg" style="display:block; margin:0; padding:0;" />
 </div>
+
+---
+
+<div align="center"><h1>☎️ Contact</h1></div>
+<p align="center">
+  <a href="mailto:ehrlgjs0413@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+  <a href="https://dockerel.tistory.com/"><img src="https://img.shields.io/badge/DEV_BLOG-151515?style=for-the-badge&logo=tistory&logoColor=fff)"></a>
+  <a href="https://www.linkedin.com/in/%EA%B8%B0%ED%97%8C-%EB%8F%84-838783343/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
 <div align="center"><h1>🏃 Experience</h1></div>
 <table align="center">
   <thead>
