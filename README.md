@@ -9,7 +9,9 @@
 <p align="center">
   <a href="mailto:ehrlgjs0413@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
   <a href="https://dockerel.tistory.com/"><img src="https://img.shields.io/badge/DEV_BLOG-151515?style=for-the-badge&logo=tistory&logoColor=fff)"></a>
-  <a href="https://www.linkedin.com/in/%EA%B8%B0%ED%97%8C-%EB%8F%84-838783343/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/%EA%B8%B0%ED%97%8C-%EB%8F%84-838783343/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+  <a href="https://dockerel.notion.site/23cee1b411628083acb5f5e1f346b90c"><img src="https://img.shields.io/badge/résumé-F8F9F3?style=for-the-badge&logo=Notion&logoColor=black"></a>
+  <a href="https://www.rallit.com/hub/resumes/12593/%EB%8F%84%EA%B8%B0%ED%97%8C"><img src="https://img.shields.io/badge/PORTFOLIO-0A927D?style=for-the-badge&logo=Rallit&logoColor=white"></a>
 </p>
 
 ---
