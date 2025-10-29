@@ -5,11 +5,13 @@
 
 ---
 
-<div align="center"><h1>☎️ Contact</h1></div>
+<div align="center"><h1>☎️ Infos</h1></div>
 <p align="center">
   <a href="mailto:ehrlgjs0413@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
   <a href="https://dockerel.tistory.com/"><img src="https://img.shields.io/badge/DEV_BLOG-151515?style=for-the-badge&logo=tistory&logoColor=fff)"></a>
   <a href="https://www.linkedin.com/in/%EA%B8%B0%ED%97%8C-%EB%8F%84-838783343/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/1GZ6ohY10JM0S7_d3rXNgmPoYbtUd3vCt/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-F6EDE3?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/1ZrmenXNXTx2Kc8dfpvYCnR42ZnmsdFCO/view?usp=drive_link"><img src="https://img.shields.io/badge/Portfolio-F6EDE3?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 </p>
 
 ---
@@ -25,18 +27,13 @@
   </thead>
   <tbody>
     <tr>
-      <td><strong>2024.04 ~ 2024.11</strong></td>
-      <td>카카오테크캠퍼스 2기 BE</td>
+      <td><strong>2025.09 ~ </strong></td>
+      <td>경북대학교 산학협력프로젝트2 with 인비고웍스</td>
       <td>-</td>
     </tr>
     <tr>
-      <td><strong>2025.02 ~ 2025.07</strong></td>
-      <td>Google Developers Group on Campus KNU 4기 BE</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td><strong>2025.03 ~ 2025.06</strong></td>
-      <td>경북대학교 산학협력프로젝트1 with 데이터스트림즈</td>
+      <td><strong>2025.06.20</strong></td>
+      <td>SQLD 자격증 취득</td>
       <td>-</td>
     </tr>
     <tr>
@@ -45,8 +42,18 @@
       <td>-</td>
     </tr>
     <tr>
-      <td><strong>2025.06.20</strong></td>
-      <td>SQLD 자격증 취득</td>
+      <td><strong>2025.03 ~ 2025.06</strong></td>
+      <td>경북대학교 산학협력프로젝트1 with 데이터스트림즈</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><strong>2025.02 ~ 2025.07</strong></td>
+      <td>Google Developers Group on Campus KNU 4기 BE</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><strong>2024.04 ~ 2024.11</strong></td>
+      <td>카카오테크캠퍼스 2기 BE</td>
       <td>-</td>
     </tr>
   </tbody>
@@ -65,9 +72,23 @@
   </thead>
   <tbody>
     <tr>
-      <td><strong>2024.09 ~ 2024.11</strong></td>
+      <td><strong>2025.07 ~ 2025.10</strong></td>
       <td>
-        카카오테크캠퍼스 프로젝트 <a href="https://github.com/Dockerel/Team5_BE"><strong>'딸깍'</strong></a> 서비스 개발
+        캠퍼스 실시간 현장 정보 거래 서비스 <a href="https://github.com/dev-DDIP/ddip-BE"><strong>'띱'</strong></a> 서비스 개발
+      </td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><strong>2025.06 ~ 2025.08</strong></td>
+      <td>
+        <a href="https://github.com/Dockerel/KnuChatbot-BE"><strong>RAG 기반 학사 정보 제공 AI 챗봇</strong></a> 서비스 개발
+      </td>
+      <td>-</td>
+    </tr>
+   <tr>
+      <td><strong>2025.03 ~ 2025.06</strong></td>
+      <td>
+        경북대학교 산학협력프로젝트1 with 데이터스트림즈 <a href="https://github.com/Dockerel/DataStreams-BE"><strong>'BigPicture'</strong></a> 서비스 개발
       </td>
       <td>-</td>
     </tr>
@@ -78,10 +99,10 @@
       </td>
       <td>-</td>
     </tr>
-    <tr>
-      <td><strong>2025.03 ~ 2025.06</strong></td>
+     <tr>
+      <td><strong>2024.09 ~ 2024.11</strong></td>
       <td>
-        경북대학교 산학협력프로젝트1 with 데이터스트림즈 <a href="https://github.com/Dockerel/DataStreams-BE"><strong>'BigPicture'</strong></a> 서비스 개발
+        카카오테크캠퍼스 프로젝트 <a href="https://github.com/Dockerel/Team5_BE"><strong>'딸깍'</strong></a> 서비스 개발
       </td>
       <td>-</td>
     </tr>
@@ -105,12 +126,42 @@
 ---
 
 <div align="center"><h1>🛠️ Tech Stack</h1></div>
+<h2>Language</h2>
+<p dir="auto">
+<img src="https://img.shields.io/badge/-Java-DB6900?logo=Java&amp;logoColor=white&amp;labelColor=DB6900" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&amp;logoColor=white&amp;labelColor=3776AB" style="max-width: 100%;">
+  <br/>
+<img src="https://img.shields.io/badge/-kotlin-7F52FF?logo=kotlin&amp;logoColor=white&amp;labelColor=7F52FF" style="max-width: 100%;">
+</p>
+
 <h2>Back-End</h2>
 <p dir="auto">
 <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&amp;logoColor=white&amp;labelColor=6DB33F" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-springboot-6DB33F?logo=springboot&amp;logoColor=white&amp;labelColor=6DB33F" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-SpringDataJpa-6DB33F?logo=SpringDataJpa&amp;logoColor=white&amp;labelColor=6DB33F" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-Junit5-25A162?logo=Junit5&amp;logoColor=white&amp;labelColor=25A162" style="max-width: 100%;">
+  <br/>
 <img src="https://img.shields.io/badge/-FastAPI-009688?logo=FastAPI&amp;logoColor=white&amp;labelColor=009688" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/-Django-092E20?logo=Django&amp;logoColor=white&amp;labelColor=092E20" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/-Express-000000?logo=Express&amp;logoColor=white&amp;labelColor=000000" style="max-width: 100%;">
+</p>
+
+<h2>DB</h2>
+<p dir="auto">
+<img src="https://img.shields.io/badge/-MySql-438CB2?logo=MySql&amp;logoColor=white&amp;labelColor=438CB2" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-Redis-FF4438?logo=Redis&amp;logoColor=white&amp;labelColor=FF4438" style="max-width: 100%;">
+</p>
+
+<h2>DevOps</h2>
+<p dir="auto">
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&amp;logoColor=white&amp;labelColor=2496ED" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&amp;logoColor=white&amp;labelColor=326CE5" style="max-width: 100%;">
+  <br/>
+<img src="https://img.shields.io/badge/-Prometheus-E6522C?logo=Prometheus&amp;logoColor=white&amp;labelColor=E6522C" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-Grafana-F46800?logo=Grafana&amp;logoColor=white&amp;labelColor=F46800" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-k6-7D64FF?logo=k6&amp;logoColor=white&amp;labelColor=7D64FF" style="max-width: 100%;">
+  <br/>
+<img src="https://img.shields.io/badge/-RabbitMQ-FF6600?logo=RabbitMQ&amp;logoColor=white&amp;labelColor=FF6600" style="max-width: 100%;">
 </p>
 
 <h2>Front-End</h2>
@@ -123,14 +174,6 @@
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&amp;logoColor=black&amp;labelColor=61DAFB" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/-ChakraUI-319795?logo=ChakraUI&amp;logoColor=white&amp;labelColor=319795" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/-tailwindcss-06B6D4?logo=tailwindcss&amp;logoColor=white&amp;labelColor=06B6D4" style="max-width: 100%;">
-</p>
-
-<h2>DB</h2>
-<p dir="auto">
-<img src="https://img.shields.io/badge/-MySql-438CB2?logo=MySql&amp;logoColor=white&amp;labelColor=438CB2" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/-Redis-FF4438?logo=Redis&amp;logoColor=white&amp;labelColor=FF4438" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&amp;logoColor=white&amp;labelColor=47A248" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/-SQLite-4479A1?logo=SQLite&amp;logoColor=white&amp;labelColor=4479A1" style="max-width: 100%;">
 </p>
 
 ---
