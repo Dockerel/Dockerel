@@ -7,11 +7,11 @@
 
 <div align="center"><h1>☎️ Infos</h1></div>
 <p align="center">
+  <a href="https://drive.google.com/file/d/1GZ6ohY10JM0S7_d3rXNgmPoYbtUd3vCt/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-F6EDE3?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+  <a href="https://dockerel.github.io/dockerel-portfolio/"><img src="https://img.shields.io/badge/Portfolio-F6EDE3?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
   <a href="mailto:ehrlgjs0413@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
   <a href="https://dockerel.tistory.com/"><img src="https://img.shields.io/badge/DEV_BLOG-151515?style=for-the-badge&logo=tistory&logoColor=fff)"></a>
   <a href="https://www.linkedin.com/in/%EA%B8%B0%ED%97%8C-%EB%8F%84-838783343/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
-  <a href="https://drive.google.com/file/d/1GZ6ohY10JM0S7_d3rXNgmPoYbtUd3vCt/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-F6EDE3?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
-  <a href="https://drive.google.com/file/d/1ZrmenXNXTx2Kc8dfpvYCnR42ZnmsdFCO/view?usp=drive_link"><img src="https://img.shields.io/badge/Portfolio-F6EDE3?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 </p>
 
 ---
