@@ -51,6 +51,8 @@ this.countQueryString = Lazy
 
 ### [[Released - 3.5.2]](https://github.com/spring-projects/spring-data-jpa/releases/tag/3.5.2) Replace regex with startsWith / endsWith check for LIKE pattern detection - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3932)
 ### 개요
+* QueryUtils는 주로 데이터베이스 쿼리를 생성, 조작 또는 처리하는 데 사용되는 유틸리티 클래스
+* getLikeTypeFrom 메서드를 통해 LIKE 쿼리를 생성할 때 검색 조건의 유형을 결정
 
 ### 문제 및 의사결정 과정
 ```java
