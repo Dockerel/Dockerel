@@ -102,10 +102,26 @@ static Type getLikeTypeFrom(String expression) {
 ### 성과
 * LIKE 패턴 탐지 성능 개선
 * Spring Data JPA 3.5.2 버전 릴리즈에 성능 최적화 기여
-* Spring Data JPA 공식 Contributor 등록
+* Spring Data JPA Contributor 등록
 
 ## 2. Spring Boot
 ### [[Released - 3.4.8]](https://github.com/spring-projects/spring-boot/releases/tag/v3.4.8) Use ThreadLocal.remove() instead of set(null) - [PR](https://github.com/spring-projects/spring-boot/pull/46256)
+### 개요
+* ThreadLocal 레퍼런스 제거를 위해 기존에는 set(null)을 사용했으나, 메모리 누수를 방지하기 위해 remove()를 사용하는 PR을 제안함
+* 해당 ThreadLocal은 오직 하나의 테스트에서만 사용되고, 메인 스레드에서만 접근되기 때문에 실제 메모리 누수 문제는 발생하지 않음
+* 그럼에도 불구하고 의미상으로는 remove()가 값을 단순히 null로 설정하는 것보다 명확하게 리소스를 해제하는 의도를 표현하므로 올바른 사용법으로 판단되었음
+
+### 성과
+* Spring Boot 3.4.8 버전 릴리즈에 기여
+* Spring Boot Contributor 등록
 
 ## 3. Spring Framework
 ### [[Released - 6.2.11]](https://github.com/spring-projects/spring-framework/releases/tag/v6.2.11) Correct the default value of nestedTransactionAllowed in JpaTransactionManager javadoc - [PR](https://github.com/spring-projects/spring-framework/pull/35212)
+### 개요
+* JpaTransactionManager의 Javadoc에는 nestedTransactionAllowed 플래그의 기본값이 false라고 적혀 있지만, 실제로는 기본 생성자에서 true로 설정되어 있었음
+* 현재 Spring Framework 팀에서 nestedTransactionAllowed의 의도된 기본값에 대한 재검토가 필요해서 변경이 보류된 상태
+* 6.2.11에 문서의 기본값을 수정하고 7.0에서 기본값을 수정할 계획
+
+### 성과
+* Spring Framework 6.2.11 버전 릴리즈에 기여
+* Spring Framework Contributor 등록
