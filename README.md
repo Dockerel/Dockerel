@@ -74,7 +74,7 @@
     <tr>
       <td><strong>2025.07 ~ 2025.10</strong></td>
       <td>
-        캠퍼스 실시간 현장 정보 거래 서비스 <a href="https://github.com/dev-DDIP/ddip-BE"><strong>'띱'</strong></a> 서비스 개발
+        캠퍼스 실시간 현장 정보 거래 서비스 <a href="https://github.com/Dockerel/ddip-BE"><strong>'띱'</strong></a> 서비스 개발
       </td>
       <td>-</td>
     </tr>
