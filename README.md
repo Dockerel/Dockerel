@@ -5,12 +5,6 @@
 
 --- -->
 
-<p>
-  I started web programming after a server crash during a concert ticketing event. As a developer, I dig deep into system internals and code execution. This led me to optimize various parts of multiple projects and become an contributor to Spring Data JPA, Spring Boot, and the Spring Framework.
-
-Also, based on the experience of solving more than 1,000 algorithmic problems in BOJ, I have experienced over 84 times improvement in performance by using segment-based structures and a 10 times increase in data growth, but 47 times improvement by removing unnecessary business logic and requests.
-</p>
-
 <div><h1>Infos</h1></div>
 <p>
   <a href="https://drive.google.com/file/d/1GZ6ohY10JM0S7_d3rXNgmPoYbtUd3vCt/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-F6EDE3?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
