@@ -1,14 +1,15 @@
-<br/>
+<!-- <br/>
 <div style="margin:0; padding:0;">
   <img src="https://raw.githubusercontent.com/Dockerel/Dockerel/main/readme.svg" style="display:block; margin:0; padding:0;" />
 </div>
 
----
+--- -->
 
-<div align="center"><h1>☎️ Infos</h1></div>
-<p align="center">
+<div><h1>Infos</h1></div>
+<p>
   <a href="https://drive.google.com/file/d/1GZ6ohY10JM0S7_d3rXNgmPoYbtUd3vCt/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-F6EDE3?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
   <a href="https://dockerel.github.io/dockerel-portfolio/"><img src="https://img.shields.io/badge/Portfolio-F6EDE3?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+  <br>
   <a href="mailto:ehrlgjs0413@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
   <a href="https://dockerel.tistory.com/"><img src="https://img.shields.io/badge/DEV_BLOG-151515?style=for-the-badge&logo=tistory&logoColor=fff)"></a>
   <a href="https://www.linkedin.com/in/%EA%B8%B0%ED%97%8C-%EB%8F%84-838783343/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
@@ -16,8 +17,28 @@
 
 ---
 
-<div align="center"><h1>🏃 Experience</h1></div>
-<table align="center">
+<div><h1>Opensource Contribution</h1></div>
+
+### spring-projects/spring-data-jpa
+  - [[Released - 3.5.2]](https://github.com/spring-projects/spring-data-jpa/releases/tag/3.5.2) Cache query strings in SimpleJpaRepository to improve performance - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3920)
+  - [[Released - 3.5.2]](https://github.com/spring-projects/spring-data-jpa/releases/tag/3.5.2) Replace regex with startsWith / endsWith check for LIKE pattern detection - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3932)
+
+### spring-projects/spring-boot
+  - [[Released - 3.4.8]](https://github.com/spring-projects/spring-boot/releases/tag/v3.4.8) Use ThreadLocal.remove() instead of set(null) - [PR](https://github.com/spring-projects/spring-boot/pull/46256)
+
+### spring-projects/spring-framework
+  - [[Released - 6.2.11]](https://github.com/spring-projects/spring-framework/releases/tag/v6.2.11) Correct the default value of nestedTransactionAllowed in JpaTransactionManager javadoc - [PR](https://github.com/spring-projects/spring-framework/pull/35212)
+
+---
+
+<div><h1>PS</h1></div>
+
+![dgh0001's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dgh0001)
+
+---
+
+<div><h1>Experience</h1></div>
+<table>
   <thead>
     <tr>
       <th>Date</th>
@@ -61,8 +82,8 @@
 
 ---
 
-<div align="center"><h1>📚 Project</h1></div>
-<table align="center">
+<div><h1>Project</h1></div>
+<table>
   <thead>
     <tr>
       <th>Date</th>
@@ -109,23 +130,11 @@
   </tbody>
 </table>
 
----
 
-<div align="center"><h1>✨ Opensource Contribution</h1></div>
-
-### spring-projects/spring-data-jpa
-  - [[Released - 3.5.2]](https://github.com/spring-projects/spring-data-jpa/releases/tag/3.5.2) Cache query strings in SimpleJpaRepository to improve performance - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3920)
-  - [[Released - 3.5.2]](https://github.com/spring-projects/spring-data-jpa/releases/tag/3.5.2) Replace regex with startsWith / endsWith check for LIKE pattern detection - [PR](https://github.com/spring-projects/spring-data-jpa/pull/3932)
-
-### spring-projects/spring-boot
-  - [[Released - 3.4.8]](https://github.com/spring-projects/spring-boot/releases/tag/v3.4.8) Use ThreadLocal.remove() instead of set(null) - [PR](https://github.com/spring-projects/spring-boot/pull/46256)
-
-### spring-projects/spring-framework
-  - [[Released - 6.2.11]](https://github.com/spring-projects/spring-framework/releases/tag/v6.2.11) Correct the default value of nestedTransactionAllowed in JpaTransactionManager javadoc - [PR](https://github.com/spring-projects/spring-framework/pull/35212)
 
 ---
 
-<div align="center"><h1>🛠️ Tech Stack</h1></div>
+<div><h1>Tech Stack</h1></div>
 <h2>Language</h2>
 <p dir="auto">
 <img src="https://img.shields.io/badge/-Java-DB6900?logo=Java&amp;logoColor=white&amp;labelColor=DB6900" style="max-width: 100%;">
@@ -176,11 +185,6 @@
 <img src="https://img.shields.io/badge/-tailwindcss-06B6D4?logo=tailwindcss&amp;logoColor=white&amp;labelColor=06B6D4" style="max-width: 100%;">
 </p>
 
----
-
-<div align="center"><h1>🧩 PS</h1></div>
-
-![dgh0001's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dgh0001)
 
 <br />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
